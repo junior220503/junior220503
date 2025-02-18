@@ -1,15 +1,16 @@
 <img width=100% src="https://i.imgur.com/nROy9si.jpeg"/>
 
-##  Oii, eu sou o Fabiano Junior!
+##  Olá, eu sou o Fabiano Junior!
 
-&nbsp;&nbsp;&nbsp; •  **Desenvolvedor de Software e Entusiasta da Tecnologia**  
+•  **Desenvolvedor de Software e Entusiasta da Tecnologia**  
 <br/>
-&nbsp;&nbsp;&nbsp; •  **Sempre em busca de novos desafios e crescimento contínuo**  
+•  **Sempre em busca de novos desafios e crescimento contínuo**  
 <br/>
-&nbsp;&nbsp;&nbsp; •  **Apaixonado por resolver problemas com código**  
+•  **Estudante de Engenharia de Software**  
 <br/>
-&nbsp;&nbsp;&nbsp; •  **21 anos**
-<br clear="left" />
+•  **Leitura, games, música, anime/séries**  
+<br/>
+•  **21 anos**
 
 ----------
 
