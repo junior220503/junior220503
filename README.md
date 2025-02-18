@@ -55,4 +55,10 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+----
+
+### Linguagens
+-  **Português (Nativo)**  
+-  **Inglês (Fluente)**  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=169&color=ff2d00&section=footer"/>
