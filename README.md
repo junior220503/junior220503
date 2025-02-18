@@ -60,4 +60,4 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a09cf3&section=footer&reversal=false&descAlign=68"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=169&color=ff2d00&section=footer"/>
